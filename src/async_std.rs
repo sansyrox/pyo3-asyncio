@@ -9,7 +9,7 @@
 //!
 //! ```toml
 //! [dependencies.pyo3-asyncio]
-//! version = "0.20"
+//! version = "0.21"
 //! features = ["unstable-streams"]
 //! ```
 
